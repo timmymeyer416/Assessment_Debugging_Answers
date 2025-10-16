@@ -1,1 +1,1 @@
-# Assessment_Debugging_Answers
+To run this file, what you must do is update the repository so that the clinical analytics file is uploaded to Google Colab. From there, you must update the server to app.run and change the port to 10030
